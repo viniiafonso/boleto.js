@@ -6,3 +6,4 @@ module.exports = {
     jest: true
   },
 };
+//Vinicius Afonso
